@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/gta6-01/Hellboys87/palm-harbor-gta6/rank.svg)](https://make.fun/bounty/gta6-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
 [![reward](https://make.fun/badge/gta6-01/Hellboys87/palm-harbor-gta6/reward.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
 
-**Palm Harbor Heat** — an original open-world crime game that runs entirely in a desktop browser from static files, no network needed. Explore the sun-soaked streets of Palm Harbor on foot and by car: steal rides, run story missions for the Marisol family, earn cash, raise your wanted level and shake the Palm Harbor PD. Traffic, pedestrians, police pursuit AI, combat, a HUD with a live minimap, a start screen and local save games are all in.
+**Palm Harbor Heat** — an all-original open-world crime game that runs entirely in a desktop browser from static files, no network needed. Play Rico Vega, a driver fresh off the bus, exploring the sun-soaked streets of Palm Harbor on foot and by car: steal rides, run a six-mission story arc for the Marisol family (pickups, deliveries, a chase-down, a beach fight, a final escape), earn cash, raise your 1–5 star wanted level and shake the Palm Harbor PD. Procedural city with a beach and ocean edge, traffic AI that follows the road grid, pedestrians who stroll and flee, police cars that pursue and ram plus foot officers who can bust you, melee and pistol combat with pickups, a HUD with a live minimap, synthesized WebAudio sound, a start screen with New Game / Continue, and local save games are all in.
 
 ## Run it
 
